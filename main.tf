@@ -8,7 +8,7 @@ locals {
 }
 
 provider "aws" {
-  region = "us-north-1"
+  region = "eu-north-1"
 }
 
 
